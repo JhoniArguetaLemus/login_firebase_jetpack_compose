@@ -1,3 +1,6 @@
 <h3>Login con Firebase y Jetpack compose </h3>
-![login2](https://github.com/user-attachments/assets/c6eee28a-0c2c-4e31-9861-4831d2a88908)
-![login1](https://github.com/user-attachments/assets/165e6ca0-6dba-4121-8e1a-fa0bddcb9a64)
+
+![login1](https://github.com/user-attachments/assets/3f07efcb-9152-45f7-b6c7-ae394d8c28bb)
+<h4> Sign Up </h4>
+
+![login2](https://github.com/user-attachments/assets/e52ceb13-6d42-4ebe-93ec-a9aefff46cff)
